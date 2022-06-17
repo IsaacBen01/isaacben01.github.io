@@ -1,0 +1,59 @@
+.maincontainer{
+    display: flex;
+    width: 800px;
+    height: 300px;
+    column-gap: 15px;
+}
+.sub1{
+    background: aqua;
+    width: 520px;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 110px;
+}
+.sub2{
+    background: blue;
+    width: 265px;
+    height: 300px;
+    margin-top: 40px;
+}
+.body{
+    background: indigo;
+}
+.divcontainer{
+    background: black;
+    display: grid;
+    row-gap: 15px;
+    align-items: center;
+    width: 1000px;
+    height: 700px;
+    margin: 100px;
+}
+.maincontainer1{
+    display: flex;
+    width: 800px;
+    height: 300px;
+    column-gap: 15px;
+}
+.sub3{
+    background: yellow;
+    width: 385px;
+    height: 300px;
+    margin-left: 110px; 
+}
+.sub4{  
+    width: 400px;
+    height: 300px;
+    row-gap: 15px;
+}
+.ldiv{
+    background: darkcyan;
+    width: 400px;
+    height: 135px; 
+}
+.lastdiv{
+    background: violet;
+    width: 400px;
+    height: 150px;
+    margin-top: 15px;
+}
